@@ -1,0 +1,6 @@
+a=int(input('Input a variable '))
+b=int(input('Input another variable '))
+print('Summation is', a+b)
+print('Subtraction is', a-b)
+print('Multiplication is', a*b)
+print('Division is', a/b)
